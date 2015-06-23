@@ -4,6 +4,8 @@
 
 ## Installation ##
 
+*`SackOfRainbows` is written in Swift 2.0 and requires Xcode 7.*
+
 ### Via Cocoapods ###
 
 Add the following line to your Podfile and run `pod install`.
@@ -84,4 +86,4 @@ var allTheWayAcrossTheSky = blueToWhite.then(whiteToBlue).forever()
 
 ## License
 
-SackOfRainbows is released under the MIT License.
+SackOfRainbows is released under the [MIT License](https://github.com/sozorogami/SackOfRainbows/blob/master/LICENSE.txt).
